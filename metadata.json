@@ -1,0 +1,8 @@
+{
+  "name": "Pixar-Style Video Generator",
+  "description": "Full-stack AI Pixar-style 3D animated video generator with multi-scene scripting, high-fidelity visual generation, warm character voice synthesis, and seamless compilation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
